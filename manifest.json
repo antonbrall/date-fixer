@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "auto-link-rename",
+	"name": "Auto Link Rename",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Automatically renames a link to a given text when the link is created.",
+	"author": "Anton Brall",
+	"authorUrl": "https://brall.se",
+	"fundingUrl": "https://brall.se",
 	"isDesktopOnly": false
 }
