@@ -17,7 +17,7 @@ export default class dateFixer extends Plugin {
                     const tomorrow = this.addDays(date, 1)
                     const yesterdayString = yesterday.toISOString().split("T")[0]
                     const tomorrowString = tomorrow.toISOString().split("T")[0]
-                    editor.replaceSelection(`[[${yesterdayString}|Gestern]] [[${tomorrowString}|Morgen]]`)
+                    editor.replaceSelection(`[[${yesterdayString}|Gestern]] [[${tomorrowString}|Morgen]]\n`)
                 }
                 
                 
