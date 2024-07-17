@@ -1,7 +1,7 @@
 {
 	"id": "date-fixer",
 	"name": "Date Fixer",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Adds a link to yesterday and tomorrow to current file.",
 	"author": "Anton Brall",
