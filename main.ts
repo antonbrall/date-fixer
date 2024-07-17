@@ -24,7 +24,7 @@ export default class dateFixer extends Plugin {
 			}
 		});
 	}
-
+ 
 	onunload() {
 
 	}
