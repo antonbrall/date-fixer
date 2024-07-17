@@ -1,9 +1,9 @@
 {
-	"id": "auto-link-rename",
-	"name": "Auto Link Rename",
+	"id": "date-fixer",
+	"name": "Date Fixer",
 	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Automatically renames a link to a given text when the link is created.",
+	"description": "Adds a link to yesterday and tomorrow to current file.",
 	"author": "Anton Brall",
 	"authorUrl": "https://brall.se",
 	"fundingUrl": "https://brall.se",
